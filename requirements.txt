@@ -1,0 +1,9 @@
+scipy
+numpy
+mqtt
+sensors
+docker
+kubernetes
+pytest
+unittest
+prometheus_client
